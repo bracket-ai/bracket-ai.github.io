@@ -1,0 +1,4 @@
+.mkdocs
+.env
+app/build/
+app/node_modules/
