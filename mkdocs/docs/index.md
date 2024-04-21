@@ -1,17 +1,53 @@
-# Welcome to MkDocs
+# Bracket AI Consulting
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to Bracket AI Consulting, where our expert team empowers organizations to launch end-to-end MVPs, train models, and implement robust large language models (LLMs) applications. Our diverse team, featuring top talents from industry-leading companies, is poised to elevate your AI projects from conceptualization to real-world application.
 
-## Commands
+## Who We Are
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- **Brian Kitano**: Engineer at Hume AI. Previously, AWS SageMaker, founding engineer at Rutter (YC S19,a16z). 
+- **Korin Thompson**: Senior Data Scientist at Lyft and Coinbase.
+- **Connor Boyle**: NLP Research at University of Washington.
 
-## Project layout
+## What We Do
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Our services are designed to cover every aspect of AI project implementation:
+
+### AI Strategy
+- **Guidance and Planning**: Helping you make informed decisions on what to invest in and what to build.
+
+### MVP Development
+- **End-to-End Solutions**: From ideation to deployment, ensuring your MVP is robust and market-ready.
+
+### LLM Applications
+- **Deployment and Scaling**: Building reliable applications powered by advanced language models like GPT-3.
+
+### Model Training
+- **Custom AI Models**: Tailored models to meet specific business needs, ensuring high accuracy and relevancy.
+
+
+## Why Choose Us?
+
+- **Expert Team**: We bring together top talents from leading companies to deliver exceptional results.
+- **Proven Track Record**: We've built this stuff before. We know what works and what doesn't.
+- **Strategic Insight**: We help you minimize regret by avoiding common pitfalls and focusing on impactful initiatives.
+
+## Our Clients
+
+We've partnered with companies across various sectors, from startups to established enterprises, helping them navigate the complexities of AI implementation and achieve tangible results.
+
+## Get in Touch
+
+Ready to transform your AI capabilities? Contact us to discuss your needs and how we can assist:
+
+- [Email Us](mailto:brian@bracketai.co)
+- [Schedule a Consultation](https://cal.com/bracket-ai)
+
+## Testimonials
+
+"Our partnership with Bracket has accelerated our AI initiatives, leading to a 30% increase in operational efficiency." - CEO, Tech Startup
+
+"Bracket’s strategic guidance helped us refine our AI models, resulting in a 50% improvement in prediction accuracy." - Data Science Manager, E-commerce Platform
+
+---
+
+For detailed insights into our projects and success stories, visit our [Case Studies page](./case-studies.md).
