@@ -41,13 +41,3 @@ Ready to transform your AI capabilities? Contact us to discuss your needs and ho
 
 - [Email Us](mailto:brian@bracketai.co)
 - [Schedule a Call](https://cal.com/bracket-ai/30min)
-
-## Testimonials
-
-"Our partnership with Bracket has accelerated our AI initiatives, leading to a 30% increase in operational efficiency." - CEO, Tech Startup
-
-"Bracket’s strategic guidance helped us refine our AI models, resulting in a 50% improvement in prediction accuracy." - Data Science Manager, E-commerce Platform
-
----
-
-For detailed insights into our projects and success stories, visit our [Case Studies page](./case-studies.md).
