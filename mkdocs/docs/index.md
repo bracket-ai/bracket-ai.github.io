@@ -1,6 +1,6 @@
-# Bracket AI Consulting
+# Engagements
 
-Welcome to Bracket AI Consulting, where our expert team empowers organizations to launch end-to-end MVPs, train models, and implement robust large language models (LLMs) applications. Our diverse team, featuring top talents from industry-leading companies, is poised to elevate your AI projects from conceptualization to real-world application.
+We're a fast, nimble, end-to-end team that helps organizations use AI and make products.
 
 ## Who We Are
 
@@ -39,5 +39,5 @@ We've partnered with companies across various sectors, from startups to establis
 
 Ready to transform your AI capabilities? Contact us to discuss your needs and how we can assist:
 
-- [Email Us](mailto:brian@bracketai.co)
+- [Email Us](mailto:hello@bracketai.co)
 - [Schedule a Call](https://cal.com/bracket-ai/30min)
