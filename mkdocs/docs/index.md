@@ -40,7 +40,7 @@ We've partnered with companies across various sectors, from startups to establis
 Ready to transform your AI capabilities? Contact us to discuss your needs and how we can assist:
 
 - [Email Us](mailto:brian@bracketai.co)
-- [Schedule a Consultation](https://cal.com/bracket-ai)
+- [Schedule a Call](https://cal.com/bracket-ai/30min)
 
 ## Testimonials
 
